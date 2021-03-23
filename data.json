@@ -1,0 +1,155 @@
+{"response_code":0,
+"results":[
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+        "correct_answer":"Puma",
+        "incorrect_answers":["Nike","Adidas","Reebok"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What cricketing term denotes a batsman being dismissed with a score of zero?",
+        "correct_answer":"Duck",
+        "incorrect_answers":["Bye","Beamer","Carry"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"A stimpmeter measures the speed of a ball over what surface?",
+        "correct_answer":"Golf Putting Green",
+        "incorrect_answers":[" Football Pitch","Cricket Outfield","Pinball Table"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+        "correct_answer":"Alain Prost",
+        "incorrect_answers":["Ayrton Senna","Niki Lauda","Emerson Fittipaldi"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"How many scoring zones are there on a conventional dart board?",
+        "correct_answer":"82",
+        "incorrect_answers":["62","42","102"]
+    },     
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"The F1 season of 1994 is remembered for what tragic event?",
+        "correct_answer":"Death of Ayrton Senna (San Marino)","incorrect_answers":["The Showdown (Australia)","Verstappen on Fire (Germany)","Schumacher&#039;s Ban (Britain)"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which team was the 2015-2016 NBA Champions?","correct_answer":"Cleveland Cavaliers",
+        "incorrect_answers":["Golden State Warriors","Toronto Raptors","Oklahoma City Thunders"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Josh Mansour is part of what NRL team?","correct_answer":"Penrith Panthers",
+        "incorrect_answers":["Melbourne Storm","Sydney Roosters","North Queensland Cowboys"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which car manufacturer won the 2016 24 Hours of Le Mans?",
+        "correct_answer":"Porsche",
+        "incorrect_answers":["Toyota","Audi","Ferrari"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+        "correct_answer":"Chile",
+        "incorrect_answers":["Argentina","Brazil","Paraguay"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What national team won the 2016 edition of UEFA European Championship?",
+        "correct_answer":"Portugal",
+        "incorrect_answers":["France","Germany","England"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"What is the oldest team in the NFL?","correct_answer":"Arizona Cardinals",
+        "incorrect_answers":["Chicago Bears","Green Bay Packers","New York Giants"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+        "correct_answer":"Jules Bianchi",
+        "incorrect_answers":["Ayrton Senna","Ronald Ratzenberger","Gilles Villeneuve"]
+    },
+    {
+        "category":"Sports","type":"multiple",
+        "difficulty":"medium",
+        "question":"Why was The Green Monster at Fenway Park was originally built?",
+        "correct_answer":"To prevent viewing games from outside the park.","incorrect_answers":["To make getting home runs harder.","To display advertisements.","To provide extra seating."]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which NBA player won Most Valuable Player for the 1999-2000 season?",
+        "correct_answer":"Shaquille O&#039;Neal",
+        "incorrect_answers":["Allen Iverson","Kobe Bryant","Paul Pierce"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?","correct_answer":"Owen Hart",
+        "incorrect_answers":["Chris Benoit","Lex Luger","Al Snow"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Who was the topscorer for England national football team?","correct_answer":"Wayne Rooney",
+        "incorrect_answers":["David Beckham","Steven Gerrard","Michael Owen"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which Formula 1 driver switched teams in the middle of the 2017 season?",
+        "correct_answer":"Carlos Sainz Jr.",
+        "incorrect_answers":["Daniil Kvyat","Jolyon Palmer","Rio Haryanto"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which NBA player has the most games played over the course of their career?",
+        "correct_answer":"Robert Parish",
+        "incorrect_answers":["Kareem Abdul-Jabbar","Kevin Garnett","Kobe Bryant"]
+    },
+    {
+        "category":"Sports",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+        "correct_answer":"Tunisia",
+        "incorrect_answers":["United States of America","Italy","Netherlands"]}
+        
+]}
